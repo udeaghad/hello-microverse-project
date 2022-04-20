@@ -16,9 +16,9 @@ The project was done to test the knowledge of linters
 
 👤 **DOZIE UDEAGHA**
 
-- GitHub: @udeaghad
-- Twitter: @theodoz
-- LinkedIn: [LinkedIn]
+- GitHub: [@udeaghad](https://github.com/udeaghad)
+- Twitter: [@theodoz](https://twitter.com/theodoz)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/dozie-udeagha/)
 
 ## 🤝 Contributing
 
