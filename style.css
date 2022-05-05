@@ -2,3 +2,28 @@ h1 {
   color: blue;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+.row {
+  text-align: center;
+}
+
+.blue-stripe {
+  background-color: blue;
+  width: 33.33%;
+}
+
+.red-stripe {
+  background-color: red;
+  width: 33.33%;
+}
+
+.green-stripe {
+  background-color: green;
+  width: 33.33%;
+}
+
+@media screen and (max-width: 768px){
+  [class*="-stripe"] {
+    width: 100%;
+  }
+}
